@@ -97,7 +97,7 @@ For this part of the assignment, explore the geospatial relationships in the dat
     * Set the `frame_height` parameter to 500.
     * Include a descriptive title.
 
-Note that your resulting plot should appear similar to the following image, might need to pip install pyepsg to be able to plot the coordinates:
+Note that your resulting plot should appear similar to the following image, might need to `pip install pyepsg` to be able to plot the coordinates:
 
 ![A screenshot depicts an example of a scatter plot created with hvPlot and GeoViews.](Images/6-4-geoviews-plot.png)
 
